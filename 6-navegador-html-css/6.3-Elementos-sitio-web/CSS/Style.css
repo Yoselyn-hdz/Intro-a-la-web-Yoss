@@ -1,0 +1,43 @@
+body{
+    background-color: #f4acb7;
+}
+
+header{
+    background-color: #003049;
+    color: azure;
+    padding: 10px 20px;
+    margin: 50px;
+}
+
+.secciones {
+   width: 100%;
+   text-align:center;
+
+}
+
+section{ 
+    display: inline-block;
+    margin: 25px;
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px #f4acb7;
+    border: 1px solid gray;
+}
+
+.flores{
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.descripcion{
+    width: 300px;
+    
+}
+
+#cuerpo{
+background-color:blue;
+padding: 20px;
+margin: 0 20px;
+}
